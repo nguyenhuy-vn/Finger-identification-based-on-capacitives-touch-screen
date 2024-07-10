@@ -1,2 +1,3 @@
 I used the dataset shared by interaction lab: https://github.com/interactionlab
+Link to dataset: https://github.com/interactionlab/CapFingerId/tree/master/data
 With this project, I process the input results and pass them through several CNN models: vgg5, resnet 18,...
